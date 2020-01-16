@@ -1,0 +1,11 @@
+C:\Users\xmast\source\repos\eljuego\eljuego\obj\Debug\netcoreapp3.1\eljuego.csprojAssemblyReference.cache
+C:\Users\xmast\source\repos\eljuego\eljuego\obj\Debug\netcoreapp3.1\eljuego.AssemblyInfoInputs.cache
+C:\Users\xmast\source\repos\eljuego\eljuego\obj\Debug\netcoreapp3.1\eljuego.AssemblyInfo.cs
+C:\Users\xmast\source\repos\eljuego\eljuego\bin\Debug\netcoreapp3.1\eljuego.exe
+C:\Users\xmast\source\repos\eljuego\eljuego\bin\Debug\netcoreapp3.1\eljuego.deps.json
+C:\Users\xmast\source\repos\eljuego\eljuego\bin\Debug\netcoreapp3.1\eljuego.runtimeconfig.json
+C:\Users\xmast\source\repos\eljuego\eljuego\bin\Debug\netcoreapp3.1\eljuego.runtimeconfig.dev.json
+C:\Users\xmast\source\repos\eljuego\eljuego\bin\Debug\netcoreapp3.1\eljuego.dll
+C:\Users\xmast\source\repos\eljuego\eljuego\bin\Debug\netcoreapp3.1\eljuego.pdb
+C:\Users\xmast\source\repos\eljuego\eljuego\obj\Debug\netcoreapp3.1\eljuego.dll
+C:\Users\xmast\source\repos\eljuego\eljuego\obj\Debug\netcoreapp3.1\eljuego.pdb
